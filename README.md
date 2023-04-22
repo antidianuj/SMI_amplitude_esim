@@ -1,5 +1,8 @@
 # deep_learning_project
-Keras implementation of identifying frquency and amplitude of displacement using self mixing interferometric signals
+Keras implementation of identifying frquency and amplitude of displacement using self mixing interferometric signals. The theme of this project can be shown as follows, where the arrow is to be approximated by some neural network.
+
+![image](https://user-images.githubusercontent.com/47445756/233798112-5be89e87-1791-4380-8f43-4bbfcc18bb84.png)
+
 
 In this repo, I constructed several deep learning architectures to map simulated self-mixing interferometric power signals to frequency and amplitude of the virating target.
 
